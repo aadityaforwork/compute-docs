@@ -11,7 +11,7 @@ const Loader = () => {
        height={32}
        className="animate-spin"
        />
-    Compute is growing....
+    Mentorship to Mastery...
     </div>
   );
 };
