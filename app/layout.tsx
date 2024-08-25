@@ -12,7 +12,7 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata={
-  title: "Compute-Docs",
+  title: "Collaborative-Docs",
   description: "A powerful doc system for building ambitious products.",
 }
 
